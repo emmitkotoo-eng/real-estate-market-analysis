@@ -30,3 +30,6 @@ identify meaningful trends across locations and property types, and generate ins
 - Property type comparisons
 - Statistical relationships and trends
 - Data visualisation
+
+
+## Key Findings
