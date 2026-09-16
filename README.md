@@ -1,6 +1,7 @@
 # Real Estate Market Analysis
 Real-world real estate data analysis using Python, exploratory data analysis, statistics and data visualisation.
 
+
 ## Project Overview
 
 This project explores real estate data to identify patterns in property prices, locations, property types and other 
